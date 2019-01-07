@@ -1,0 +1,7 @@
+zimpl	v       0	hemden          	"hemden"
+zimpl	v       1	roecke          	"roecke"
+zimpl	v       2	hosen           	"hosen"
+zimpl	v       3	maschine1       	"maschine1"
+zimpl	v       4	maschine2       	"maschine2"
+zimpl	c       0	worktime_1      	"worktime_1"	0.0000000000000000e+00
+zimpl	c       1	material_1      	"material_1"	0.0000000000000000e+00
